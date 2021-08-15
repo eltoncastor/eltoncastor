@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ##
  <div style="display: inline_block">
   <a href="https://github.com/eltoncastor">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eltoncastor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&card_width=250"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltoncastor&layout=compact&langs_count=5&theme=tokyonight"/>
+  <img height="160em" width="260px" src="https://github-readme-stats.vercel.app/api?username=eltoncastor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&card_width=250"/>
+  <img height="160em" width="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltoncastor&layout=compact&langs_count=5&theme=tokyonight"/>
 </div>
    
 ## Skills :nerd_face:
