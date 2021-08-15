@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 </p>
 
 
-## Contact :iphone:
+## Contato :iphone:
 
 <p align="center">
     <a href="https://github.com/eltoncastor">
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:contatoeltonmarques@hotmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mateusaraujo996@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=contatoeltonmarques@gmail.com">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/elton-marques" target="_blank">
