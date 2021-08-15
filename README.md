@@ -64,3 +64,7 @@ Here are some ideas to get you started:
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://profile-counter.glitch.me/eltoncastor/count.svg">
 </p>
+
+![Snake animation](https://github.com/eltoncastor/eltoncastor/blob/output/github-contribution-grid-snake.svg)
+ 
+ 
