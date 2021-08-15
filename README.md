@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 - 👨‍🎓 Atualmente estou cursando Ciência da Computação no 1° período
 ##
-<div>
-   <a href="https://github.com/eltoncastor">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eltoncastor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&card_width=250"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltoncastor&layout=compact&langs_count=5&theme=tokyonight&card_width=250"/>
+ <div>
+  <a href="https://github.com/eltoncastor">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eltoncastor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltoncastor&layout=compact&langs_count=7&theme=dracula"/>
 </div>
    
 ## Skills :nerd_face:
