@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <div>
    <a href="https://github.com/eltoncastor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eltoncastor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltoncastor&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltoncastor&layout=compact&langs_count=4&theme=tokyonight"/>
 </div>
    
 ## Skills :nerd_face:
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img align="right" alt="elton gif" src="https://media4.giphy.com/media/txXKMMZJRXJz7q32GV/giphy.gif?cid=790b7611b8878f9a5b35fc150ab444457744544af284d8a4&rid=giphy.gif&ct=g" width="180px">
+   <img align="right" alt="elton gif" src="https://media4.giphy.com/media/txXKMMZJRXJz7q32GV/giphy.gif?cid=790b7611b8878f9a5b35fc150ab444457744544af284d8a4&rid=giphy.gif&ct=g" width="200px">
    
 </p>
 
@@ -61,6 +61,6 @@ Here are some ideas to get you started:
 
 ## Total de Visitas ao perfil 🕵️
 <p align="left">
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
     <img src="https://profile-counter.glitch.me/eltoncastor/count.svg">
 </p>
