@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Visitas ao perfil
+## Total de Visitas ao perfil 🕵️
 ![](https://profile-counter.glitch.me/eltoncastor/count.svg)
