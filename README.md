@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=eltoncastor)
+## Visitas ao perfil
+![](https://profile-counter.glitch.me/eltoncastor/count.svg)
