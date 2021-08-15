@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 - 👨‍🎓 Atualmente estou cursando Ciência da Computação no 1° período
 
+- Martin Fowler diz que: "Qualquer tolo consegue escrever código que um computador entenda. Bons programadores escrevem código que humanos possam entender".
+
 ##
  <div style="display: inline_block">
   <a href="https://github.com/eltoncastor">
@@ -65,8 +67,5 @@ Here are some ideas to get you started:
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://profile-counter.glitch.me/eltoncastor/count.svg">
 </p>
-
-> Qualquer tolo consegue escrever código que um computador entenda. Bons programadores escrevem código que humanos possam entender.
-> - Martin Fowler
  
 ![Snake animation](https://github.com/eltoncastor/eltoncastor/blob/output/github-contribution-grid-snake.svg)
