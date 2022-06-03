@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Olá! 👋 Eu sou Elton Marques
 ##
 
-- 👨‍🎓 Atualmente estou cursando Ciência da Computação no 1° período
+- 👨‍🎓 Atualmente estou cursando Ciência da Computação
 
 - Martin Fowler diz que: "Qualquer tolo consegue escrever código que um computador entenda. Bons programadores escrevem código que humanos possam entender".
 
