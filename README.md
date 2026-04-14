@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Olá! 👋 Eu sou Elton Marques
 ##
 
-- 👨‍🎓 Atualmente estou cursando Ciências Econômicas, mas cursei dois períodos de Ciência da Computação.
+- 👨‍🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
 
 - Martin Fowler diz que: "Qualquer tolo consegue escrever código que um computador entenda. Bons programadores escrevem código que humanos possam entender".
 
