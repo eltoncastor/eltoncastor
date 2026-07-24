@@ -13,59 +13,56 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Olá! 👋 Eu sou Elton Marques
-##
-
-- 👨‍🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
-
-- Martin Fowler diz que: "Qualquer tolo consegue escrever código que um computador entenda. Bons programadores escrevem código que humanos possam entender".
-
-##
- <div style="display: inline_block">
-  <a href="https://github.com/eltoncastor">
-  <img height="180em" width="410px" src="https://github-readme-stats.vercel.app/api?username=eltoncastor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="410px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltoncastor&layout=compact&langs_count=5&theme=tokyonight"/>
-</div>
-   
-## Skills :nerd_face:
-<p align="center">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img align="right" alt="elton gif" src="https://media4.giphy.com/media/txXKMMZJRXJz7q32GV/giphy.gif?cid=790b7611b8878f9a5b35fc150ab444457744544af284d8a4&rid=giphy.gif&ct=g" width="250px">
-   
-</p>
-
-
-## Contato :iphone:
+<h1 align="center">Olá, eu sou o Elton Marques 👋</h1>
 
 <p align="center">
-    <a href="https://github.com/eltoncastor">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/eltoncastor">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:contatoeltonmarques@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=contatoeltonmarques@gmail.com">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/elton-marques" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/mateusaraujobarros/">
-    </a>
+  Estudante de Análise e Desenvolvimento de Sistemas | Explorando dev, automação e IA
 </p>
 
+---
 
-## Total de Visitas ao perfil 🕵️
+### 🧭 Sobre mim
+
+Estou construindo minha base em programação e desenvolvimento de software, buscando entender não só como as coisas funcionam, mas por que funcionam. Meu objetivo é usar tecnologia para resolver problemas reais, e por isso venho transformando teoria em prática o tempo todo: cada projeto aqui é um passo nessa jornada.
+
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
+- 💻 Interesse em desenvolvimento de software, automação e inteligência artificial
+- 🌱 Aprendendo, experimentando e evoluindo constantemente
+- 🎯 No início da jornada em tech, e sem pressa nenhuma de fingir que sei mais do que sei
+
+---
+
+### 📚 Atualmente aprendendo
+
+- Python (lógica de programação, automação, pandas)
+- Fundamentos de banco de dados e SQL
+- IA aplicada e automação de processos (n8n, APIs de IA)
+- Conceitos de ADS: sistemas, matemática aplicada, engenharia de software
+
+---
+
+### 🛠️ Tecnologias e ferramentas
+
 <p align="left">
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://profile-counter.glitch.me/eltoncastor/count.svg">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
 </p>
+
+---
+
+### 🎯 Em construção
+
+Ainda tenho muito a aprender, e é exatamente isso que me move. Meu foco é continuar estudando, construindo projetos reais e entendendo cada vez mais a fundo aquilo que desenvolvo.
+
+> "Construindo, aprendendo e evoluindo — um projeto de cada vez."
+
+---
+
+<p align="center">Obrigado pela visita! 🚀</p>
+
+
+
  
 ![Snake animation](https://github.com/eltoncastor/eltoncastor/blob/output/github-contribution-grid-snake.svg)
