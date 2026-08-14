@@ -28,16 +28,15 @@ Estou construindo minha base em programação e desenvolvimento de software, bus
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
 - 💻 Interesse em desenvolvimento de software, automação e inteligência artificial
 - 🌱 Aprendendo, experimentando e evoluindo constantemente
-- 🎯 No início da jornada em tech, e sem pressa nenhuma de fingir que sei mais do que sei
 
 ---
 
 ### 📚 Atualmente aprendendo
 
-- Python (lógica de programação, automação, pandas)
-- Fundamentos de banco de dados e SQL
-- IA aplicada e automação de processos (n8n, APIs de IA)
-- Conceitos de ADS: sistemas, matemática aplicada, engenharia de software
+- Python
+- Banco de dados e SQL
+- IA aplicada e automação de processos (n8n, APIs de IA, Claude Code)
+- Desenvolvimento Web (JS, HTML e CSS)
 
 ---
 
