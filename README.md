@@ -51,14 +51,6 @@ Estou construindo minha base em programação e desenvolvimento de software, bus
 
 ---
 
-### 🎯 Em construção
-
-Ainda tenho muito a aprender, e é exatamente isso que me move. Meu foco é continuar estudando, construindo projetos reais e entendendo cada vez mais a fundo aquilo que desenvolvo.
-
-> "Construindo, aprendendo e evoluindo — um projeto de cada vez."
-
----
-
 <p align="center">Obrigado pela visita! 🚀</p>
 
 
