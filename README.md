@@ -4,11 +4,11 @@ I work in loss prevention at a retail company in Caruaru (PE), and I'm two semes
 
 ## What I'm building
 
-**Matriculation card reader**: a web app that reads and validates handwritten access-release logs from the employee entrance at work. When an employee needs to pass through the turnstiles outside their scheduled hours, whether from being late or a manager's scheduling gap, a manager radios the loss prevention assistant on duty to release them with the master card. That release used to be logged by hand: date, time, employee ID, reason for the release, and the manager who authorized it. OCR (PaddleOCR + OpenCV for preprocessing) reads and validates those entries. FastAPI backend, React frontend, running on a VPS behind Cloudflare Tunnel + Tailscale.
+**Handwritten Access-Release OCR**: a web app that reads and validates handwritten access-release logs from the employee entrance at work. When an employee needs to pass through the turnstiles outside their scheduled hours, whether from being late or a manager's scheduling gap, a manager radios the loss prevention assistant on duty to release them with the master card. That release used to be logged by hand: date, time, employee ID, reason for the release, and the manager who authorized it. The app uses OCR (PaddleOCR + OpenCV for preprocessing) to extract that information and validate it against the employee database. FastAPI backend, React frontend, running on a VPS behind Cloudflare Tunnel + Tailscale.
 
 Live: [eltonmarques.com/leitor](https://eltonmarques.com/leitor)
 
-There's also a desktop version (Python + Tkinter) doing something similar for internal paperwork at work: same OCR core, different interface, different constraints.
+There's also a desktop version (Python + Tkinter) for the same kind of internal paperwork at work. Both versions share the same OCR core while using different interfaces and adapting to different constraints.
 
 ## Stack
 
@@ -45,6 +45,6 @@ There's also a desktop version (Python + Tkinter) doing something similar for in
 
 ## Also
 
-I'm in Programa Acelera, an internal leadership track at the company I work for. Different skill set than code, but it's teaching me things the terminal doesn't.
+I'm in Programa Acelera, an internal leadership track at the company I work for. Different skill set from writing code, but it's teaching me things the terminal can't.
 
 <p align="center"><i>Build. Learn. Improve. Repeat.</i></p>
