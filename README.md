@@ -1,59 +1,121 @@
-<!--
-**eltoncastor/eltoncastor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">Olá, eu sou o Elton Marques 👋</h1>
+<h1 align="center">Hi, I'm Elton Marques 👋</h1>
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas | Explorando dev, automação e IA
+  <strong>Software Developer in progress.</strong><br>
+  Python • JavaScript • SQL • Web<br>
+  Building software that solves real problems.
 </p>
 
 ---
 
-### 🧭 Sobre mim
+## 🧭 About Me
 
-Estou construindo minha base em programação e desenvolvimento de software, buscando entender não só como as coisas funcionam, mas por que funcionam. Meu objetivo é usar tecnologia para resolver problemas reais, e por isso venho transformando teoria em prática o tempo todo: cada projeto aqui é um passo nessa jornada.
+I'm an **Análise e Desenvolvimento de Sistemas (ADS)** student focused on software development, automation and practical problem solving.
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
-- 💻 Interesse em desenvolvimento de software, automação e inteligência artificial
-- 🌱 Aprendendo, experimentando e evoluindo constantemente
+I learn by building real projects — exploring everything from backend development and databases to APIs, OCR, automation and distributed systems.
 
----
+I'm particularly interested in understanding **how systems work under the hood** and turning ideas into useful software.
 
-### 📚 Atualmente aprendendo
-
-- Python
-- Banco de dados e SQL
-- IA aplicada e automação de processos (n8n, APIs de IA, Claude Code)
-- Desenvolvimento Web (JS, HTML e CSS)
+* 🎓 Studying **Análise e Desenvolvimento de Sistemas**
+* 💻 Focused on **Python, JavaScript, SQL and Web Development**
+* 🤖 Interested in **automation, AI and OCR**
+* 🧠 Learning software architecture and backend development
+* 🚀 Building real-world projects and improving continuously
 
 ---
 
-### 🛠️ Tecnologias e ferramentas
+## 🛠️ Technologies & Tools
+
+### Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+</p>
+
+### Web & Backend
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+</p>
+
+### Database & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
 </p>
 
 ---
 
-<p align="center">Obrigado pela visita! 🚀</p>
+## 🚀 Featured Projects
 
+### 📄 Leitor de Matrículas
 
+A web application for processing enrollment documents using OCR.
 
- 
-![Snake animation](https://github.com/eltoncastor/eltoncastor/blob/output/github-contribution-grid-snake.svg)
+The project explores OCR pipelines, backend APIs, web interfaces, distributed processing and communication between a central server and local workers.
+
+**Tech:** `Python` `FastAPI` `OCR` `OpenCV` `JavaScript`
+
+---
+
+### 💳 Cartão Mestre
+
+A data-driven dashboard focused on transforming operational data into useful visual insights.
+
+The project explores data processing, visualization, frontend development and incremental software evolution.
+
+**Tech:** `JavaScript` `HTML` `CSS` `Data Visualization`
+
+---
+
+### 🛡️ EscalaPrev
+
+A system designed to assist with workforce scheduling and operational management in loss prevention.
+
+The project focuses on validation, organization and decision support rather than fully automated scheduling.
+
+**Tech:** `Python` `SQLite` `Flask` `Jinja2` `SQLAlchemy`
+
+---
+
+## 📚 Currently Learning
+
+* 🐍 Advanced Python and backend development
+* 🗄️ SQL and database design
+* 🌐 JavaScript and modern Web Development
+* ⚙️ APIs and software architecture
+* 🤖 AI and process automation
+* 🧪 Testing and code quality
+
+---
+
+## 🎯 What I'm Working Toward
+
+My goal is to become a strong software developer by continuously building real applications, strengthening my fundamentals and learning how to design reliable and maintainable systems.
+
+I'm especially interested in:
+
+**Backend Development · Automation · Data · APIs · AI/OCR · Software Architecture**
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/eltoncastor/eltoncastor/blob/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</p>
+
+---
+
+<p align="center">
+  <i>Build. Learn. Improve. Repeat.</i>
+</p>
