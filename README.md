@@ -55,38 +55,6 @@ I'm particularly interested in understanding **how systems work under the hood**
 
 ---
 
-## 🚀 Featured Projects
-
-### 📄 Leitor de Matrículas
-
-A web application for processing enrollment documents using OCR.
-
-The project explores OCR pipelines, backend APIs, web interfaces, distributed processing and communication between a central server and local workers.
-
-**Tech:** `Python` `FastAPI` `OCR` `OpenCV` `JavaScript`
-
----
-
-### 💳 Cartão Mestre
-
-A data-driven dashboard focused on transforming operational data into useful visual insights.
-
-The project explores data processing, visualization, frontend development and incremental software evolution.
-
-**Tech:** `JavaScript` `HTML` `CSS` `Data Visualization`
-
----
-
-### 🛡️ EscalaPrev
-
-A system designed to assist with workforce scheduling and operational management in loss prevention.
-
-The project focuses on validation, organization and decision support rather than fully automated scheduling.
-
-**Tech:** `Python` `SQLite` `Flask` `Jinja2` `SQLAlchemy`
-
----
-
 ## 📚 Currently Learning
 
 * 🐍 Advanced Python and backend development
