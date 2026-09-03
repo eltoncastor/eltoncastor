@@ -1,32 +1,65 @@
 # Elton Marques
 
-**Python & Web Developer focused on automation, data processing, and practical software solutions.**
+**Python & Web Developer focused on automation, data processing, dashboards, and practical software solutions.**
 
-I currently work in loss prevention at a retail company in Brazil while pursuing a degree in Systems Analysis and Development.
+I’m a developer from Brazil, currently pursuing a degree in Systems Analysis and Development. I learn by building real projects that solve practical problems — especially tasks that are repetitive, manual, or dependent on spreadsheets and paper.
 
-I learn by building solutions to real problems. Instead of creating projects just for practice, I focus on automating repetitive work, processing data, and turning manual workflows into simple and reliable software.
+My goal is simple: **turn manual work into software.**
 
-## What I'm Building
+## Projects
 
-### Handwritten Access-Release OCR
+### 🌐 Personal Website & Developer Hub
 
-A web application that converts handwritten access-release records into structured digital data.
+**[eltonmarques.com](https://eltonmarques.com/)**
 
-The system uses **PaddleOCR and OpenCV** to process images, extract information, and validate the results against existing employee data.
+My personal website and project hub, built to showcase my work, technical projects, services, and contact information.
 
-**Stack:** Python, FastAPI, React, OpenCV, PaddleOCR, SQLite, Cloudflare Tunnel, Tailscale
+It also serves as a central place to explore my live projects and experiments.
 
-**Live demo:** [eltonmarques.com/leitor](https://eltonmarques.com/leitor)
+---
+
+### 📊 Cartão Mestre Dashboard
+
+**[Live Demo](https://eltonmarques.com/cartaomestre-demo/app/)** · **Fictional data**
+
+A dashboard designed to turn manually recorded operational data into useful insights.
+
+The application provides data visualization, filtering, historical analysis, and report-oriented views for operational monitoring.
+
+The public demo uses **fictional data** and does not expose real company information.
+
+**Focus:** dashboards, data processing, business intelligence, and web applications.
+
+---
+
+### 📝 MestreCheck — Handwritten Cartão Mestre OCR
+
+**[Live Demo](https://eltonmarques.com/leitor)**
+
+A specialized web application designed to process handwritten **Cartão Mestre access-release forms**.
+
+The system uses **PaddleOCR and OpenCV** to analyze the specific document layout, extract relevant information, and validate the results against existing data.
+
+It is intentionally specialized: when a different type of spreadsheet or document is submitted, the system detects that it does not match the expected format instead of treating it as a valid document.
 
 I also developed a desktop version using **Python and Tkinter**, sharing the same OCR processing core while adapting the interface to a different environment.
 
-### Process Automation
+**Focus:** Python, OCR, image processing, document validation, data extraction, automation, and web applications.
 
-I've also built internal tools to replace repetitive manual workflows, including a locker management system that replaced multiple handwritten control sheets.
 
-These projects are driven by a simple idea:
+## What I Build
 
-> **Find a repetitive problem. Build a practical solution. Make the process better.**
+I’m particularly interested in building practical solutions for:
+
+* Python automation and scripting
+* Data processing and validation
+* Excel, CSV, and spreadsheet workflows
+* Web scraping and data extraction
+* Dashboards and business intelligence
+* Internal web applications
+* REST APIs and integrations
+* OCR and document processing
+* AI-powered automation
 
 ## Tech Stack
 
@@ -47,7 +80,7 @@ These projects are driven by a simple idea:
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
 </p>
 
-### Automation & Data
+### Data, Automation & AI
 
 <p align="left">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
@@ -65,21 +98,12 @@ These projects are driven by a simple idea:
   <img src="https://img.shields.io/badge/Tailscale-000000?style=flat&logo=tailscale&logoColor=white" />
 </p>
 
-## Areas of Interest
-
-* Python automation and scripting
-* Data processing and validation
-* Web scraping and data extraction
-* Web applications and dashboards
-* REST APIs and integrations
-* OCR and document processing
-* AI-powered automation
-* Internal tools for business processes
-
 ## About Me
 
-I'm currently pursuing a degree in **Systems Analysis and Development** and continuously improving my skills through hands-on projects.
+I currently work in loss prevention at a retail company while developing software solutions for real operational problems.
 
-I also participate in an internal leadership development program at the company where I work, which has helped me develop communication, ownership, and problem-solving skills alongside my technical background.
+My projects come from real needs: replacing manual processes, organizing operational data, reducing repetitive work, and building tools that people can actually use.
+
+I’m continuously improving my skills through hands-on development, experimentation, and real-world projects.
 
 <p align="center"><i>Build. Learn. Improve. Repeat.</i></p>
